@@ -1,6 +1,5 @@
 import React from "react";
-import App from "./App";
-function SubmitButton() {
+
+export default function SubmitButton() {
   return <button>Ask</button>;
 }
-export default SubmitButton;
